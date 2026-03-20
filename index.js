@@ -45,3 +45,6 @@ async function fetchFreebusy(timeMin, timeMax) {
 
   return response.json();
 }
+
+// Export the Express app
+export default app;
