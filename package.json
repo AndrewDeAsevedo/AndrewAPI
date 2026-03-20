@@ -15,6 +15,7 @@
   "dependencies": {
     "depcheck": "^1.4.7",
     "dotenv": "^16.4.5",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "serverless-http": "^4.0.0"
   }
 }
